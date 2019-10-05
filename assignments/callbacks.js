@@ -55,6 +55,10 @@ function last(arr, cb) {
 function sumNums(x, y, cb) {
   // sumNums adds two numbers (x, y) and passes the result to the callback.
 }
+// function sum(1, 5, items) {
+//   return items(x + y);
+// };
+// console.log(sum);
 
 function multiplyNums(x, y, cb) {
   // multiplyNums multiplies two numbers and passes the result to the callback.
